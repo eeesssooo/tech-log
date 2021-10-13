@@ -1,6 +1,6 @@
 # Hello
 
-Welcome to my blog. My name is Ed.<br>
+Welcome to my blog. My name is Soojeong.<br>
 I'm very interested in the web front-end development.
 
-Visit my [Github repository](https://github.com/sungik-choi/gatsby-starter-apple).
+Visit my [Github repository](https://github.com/eeesssooo?tab=repositories).
