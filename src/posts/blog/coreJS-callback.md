@@ -3,7 +3,7 @@ title: 'Core Javascript | 콜백함수'
 category: 'Javascript'
 date: '2021-10-13 17:00:00 +09:00'
 desc: '코어 자바스크립트 책을 보며 공부한 내용입니다.'
-thumbnail: './images/default.jpg'
+thumbnail: './images/markdown-test/thumbnail.jpg'
 alt: '코어 자바스크립트를 보며 공부한 내용입니다.'
 ---
 
