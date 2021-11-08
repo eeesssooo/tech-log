@@ -1,7 +1,7 @@
 ---
 title: 'CSS |flex-basis, flex-grow, flex-shrink'
 category: 'CSS'
-date: '2021-11-19 12:40:00 +09:00'
+date: '2021-11-08 12:40:00 +09:00'
 desc: 'flex-basis, flex-grow, flex-shrink'
 thumbnail: './images/getting-started/thumbnail.jpg'
 alt: 'flex-basis, flex-grow, flex-shrink'
